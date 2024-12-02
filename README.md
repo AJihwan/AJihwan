@@ -3,6 +3,5 @@
 
 
 📚 **추천 리소스**:  
-- [공식 문서](https://example.com)  
-- [YouTube 튜토리얼](https://youtube.com)  
-- [커뮤니티 포럼](https://stackoverflow.com)  
+- [교수님 깃허브](https://github.com/ai7dnn)
+   
