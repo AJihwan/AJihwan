@@ -4,8 +4,12 @@
   
   
   ## 📖 Studying 📖  
-├── 🐍 Ｐｙｔｈｏｎ
-
+├── 🐍 # Python
+    ├── NumPy
+    ├── TensorFlow
+    ├── Pandas
+    ├── matplotlib
+    ├── seaborn
 
 
 
