@@ -5,7 +5,7 @@
   
   ## 📖 Studying 📖  
 ├── 🐍 # Python    
-    ├── NumPy  
+      ├── NumPy  
     ├── TensorFlow  
     ├── Pandas  
     ├── matplotlib  
