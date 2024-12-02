@@ -6,10 +6,10 @@
   ## 📖 Studying 📖  
 ├── 🐍 # Python    
       ├── NumPy  
-    ├── TensorFlow  
-    ├── Pandas  
-    ├── matplotlib  
-    ├── seaborn  
+      ├── TensorFlow  
+      ├── Pandas  
+      ├── matplotlib  
+      ├── seaborn  
 
 
 
