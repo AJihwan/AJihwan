@@ -1,8 +1,13 @@
-### Hi there 👋
->
+# Hi there 👋
+>Welcome my github page!
+>I'm Jihwan Seok,student majoring AI software at Dongyang Mirae University.
   
   
   ## 📖 Studying 📖  
+│
+├──── 🐍 Ｐｙｔｈｏｎ
+
+
 
 
 📚 **추천 리소스**:  
