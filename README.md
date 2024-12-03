@@ -3,8 +3,9 @@
 >I'm Jihwan Seok,student majoring AI software at Dongyang Mirae University.
   
   
-  ## 📖 Studying 📖  
+  ## 📖 Studying 📖[  
 [![W3C Validation](https://img.shields.io/w3c-validation/html)](https://img.shields.io/w3c-validation/html
+)](https://img.shields.io/w3c-validation/default
 )
 
 
