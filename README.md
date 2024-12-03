@@ -16,7 +16,7 @@
 
 
 
-📚 **recommended github**:  
+## 📚 **recommended github**:  
 - [교수님 깃허브](https://github.com/ai7dnn)
 
 
