@@ -4,8 +4,9 @@
   
   
   ## 📖 Studying 📖
-  ![W3C Validation](https://img.shields.io/w3c-validation/:parser)
-
+[  ![W3C Validation](https://img.shields.io/w3c-validation/:parser)
+](https://img.shields.io/w3c-validation/:parser
+)
 
 
 📚 **추천 리소스**:  
