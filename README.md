@@ -4,17 +4,8 @@
   
   
   ## 📖 Studying 📖  
-<pre>
-├── 🐍 # Python    
-|    ├── NumPy  
-|    ├── TensorFlow  
-|    ├── Pandas  
-|    ├── matplotlib  
-    ├── seaborn  
-    ├── csv
-├── 🐍 # Python   
-  
-</pre>
+![W3C Validation](https://img.shields.io/w3c-validation/html)
+
 
 
 📚 **추천 리소스**:  
