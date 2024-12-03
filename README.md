@@ -4,13 +4,14 @@
   
   
   ## 📖 Studying 📖  
+<pre>
 ├── 🐍 # Python    
       ├── NumPy  
       ├── TensorFlow  
       ├── Pandas  
       ├── matplotlib  
       ├── seaborn  
-
+</pre>
 
 
 📚 **추천 리소스**:  
