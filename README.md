@@ -20,7 +20,7 @@
 - [교수님 깃허브](https://github.com/ai7dnn)
 
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJihwan&layout=compact)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJihwan&layout=compact)  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJihwan&show_icons=true&hide_title=true)
 
 
