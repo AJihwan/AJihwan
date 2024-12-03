@@ -11,17 +11,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A1E4.svg?style=flat&logo=mysql&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-%23F7B400.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)  
+
+
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJihwan&layout=compact)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJihwan&show_icons=true&hide_title=true)
+
 
 
 
 
 ## 📚 **Recommended Github**:  
 - [교수님 깃허브](https://github.com/ai7dnn)
-
-
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJihwan&layout=compact)  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJihwan&show_icons=true&hide_title=true)
 
 
    
