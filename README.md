@@ -22,7 +22,8 @@
 
 
 ## 📚 **Recommended Github**:  
-- [교수님 깃허브](https://github.com/ai7dnn)
+- [ai7dnn](https://github.com/ai7dnn)
+- [taehojo](https://github.com/taehojo/deeplearning.git)
 
 
    
