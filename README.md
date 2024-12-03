@@ -6,11 +6,14 @@
   ## 📖 Studying 📖  
 <pre>
 ├── 🐍 # Python    
-      ├── NumPy  
-      ├── TensorFlow  
-      ├── Pandas  
-      ├── matplotlib  
-      ├── seaborn  
+|    ├── NumPy  
+|    ├── TensorFlow  
+|    ├── Pandas  
+|    ├── matplotlib  
+    ├── seaborn  
+    ├── csv
+├── 🐍 # Python   
+  
 </pre>
 
 
