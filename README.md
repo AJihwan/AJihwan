@@ -11,6 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A1E4.svg?style=flat&logo=mysql&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-%23F7B400.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)
 
 
 
