@@ -18,4 +18,10 @@
 
 📚 **추천 리소스**:  
 - [교수님 깃허브](https://github.com/ai7dnn)
+
+
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+
+
    
