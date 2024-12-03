@@ -1,5 +1,5 @@
 # Hi there 👋
->Welcome my github page!
+>Welcome my github page!  
 >I'm Jihwan Seok,student majoring AI software at Dongyang Mirae University.
   
   
