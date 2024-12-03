@@ -23,7 +23,8 @@
 
 ## 📚 **Recommended Github**:  
 - [ai7dnn](https://github.com/ai7dnn)
-- [taehojo](https://github.com/taehojo/deeplearning.git)
+- [taehojo](https://github.com/taehojo)
+- [yesung05](https://github.com/yesung05)
 
 
    
